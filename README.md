@@ -1,2 +1,1 @@
 # GSO
-Lokaverkefni fyrir GSÖ
